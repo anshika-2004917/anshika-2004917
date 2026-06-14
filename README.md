@@ -4,7 +4,7 @@
 
 I am a B.Tech undergraduate specializing in Artificial Intelligence and Machine Learning (AIML) with a strong interest in Machine Learning, Data Analytics, and Software Development.
 
-I enjoy transforming data into meaningful insights and building practical solutions using Python, SQL, and Machine Learning. 
+I enjoy transforming data into meaningful insights and building practical solutions using Python, SQL, and Machine Learning.Currently, I am strengthening my expertise in Machine Learning using Scikit-learn, focusing on data preprocessing, model development, and predictive analytics through hands-on projects. 
 
 ---
 
