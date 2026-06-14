@@ -79,9 +79,9 @@ I believe in continuous learning and regularly work on projects that strengthen 
 
 ## Connect With Me
 
-* LinkedIn: [Add Your LinkedIn Profile]
+* LinkedIn: [https://www.linkedin.com/in/anshika-dwivedi-a5aa02403]
 * GitHub: https://github.com/anshika-2004917
-* Email: [Add Your Email]
+* Email: [anshikadwivedi929@gmail.com]
 
 ---
 
