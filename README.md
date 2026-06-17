@@ -87,3 +87,20 @@ I believe in continuous learning and regularly work on projects that strengthen 
 
 ⭐ Always learning, building, and improving.
 
+
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshika-2004917&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-2004917&layout=compact)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anshika-2004917)
+
+## 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshika-2004917)
+
